@@ -1,0 +1,46 @@
+body {
+	background: #110E0E;
+	text-align: center;
+}
+
+h1 {
+	color: #DDDADA;
+	font-family: 'Montserrat', sans-serif;
+}
+
+div	{
+	margin-bottom: 15px;
+}
+
+input {
+	padding: 5px 5px;
+}
+
+button {
+	color: #DDDADA;
+	width: 10%;
+	padding: 5px 5px;
+	border-radius: 5px;
+}
+
+.input {
+	border-radius: 5px;
+	box-shadow: 0px 4px 3px 0px black;
+}
+
+.nigga {
+	border-color: #8135E8; 
+	background:#8135E8;
+}
+
+.gigga {
+	border-color: #733084; 
+	background: #733084;	
+}
+
+button:hover {
+	color: black;
+	border-color: #B2AFAF;
+	background: #B2AFAF;
+}
+
